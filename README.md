@@ -8,4 +8,4 @@ This project suggests personalized movie recommendations based on user preferenc
 2. Ensure `movie_list.pkl` and `similarity.pkl` are in the project directory.  
 3. Run the app:  
 ```bash
-python app.py
+streamlit run app.py
